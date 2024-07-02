@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="150"/>
+  <img src="https://tenor.com/view/the-doctor-leo-fitz-technology-gif-14038179" width="200" height="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/garv-mittal-5243951bb">
@@ -17,7 +17,7 @@
 
 <hr>
 
-### :woman_technologist: About Me :
+### 👨‍💻: About Me :
 👋 Hi, I’m Garv Mittal, a Java developer, UI/UX designer and a aspiring FullStack Developer. I'm interested in Web3 and love to explore different stuff.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
@@ -27,7 +27,12 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garv-mittal-5243951bb)
 
+---
+<hr>
 
+### BIO :
+I am Garv Mittal, a passionate Java developer and aspiring full stack developer. With a strong foundation in Data Structures and Algorithms, I am dedicated to continuously improving my coding skills and staying up-to-date with the latest industry trends.
+I am eager to collaborate on exciting projects, contribute to open-source initiatives, and learn from experienced professionals in the field. My goal is to leverage my technical expertise to create innovative solutions that make a positive impact. As an aspiring full stack developer, I am committed to mastering both front-end and back-end technologies to deliver seamless and user-friendly applications.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
