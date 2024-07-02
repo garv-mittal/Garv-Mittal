@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://tenor.com/view/the-doctor-leo-fitz-technology-gif-14038179" width="200" height="150"/>
+  <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" width="200" height="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/garv-mittal-5243951bb">
@@ -32,6 +32,7 @@
 
 ### BIO :
 I am Garv Mittal, a passionate Java developer and aspiring full stack developer. With a strong foundation in Data Structures and Algorithms, I am dedicated to continuously improving my coding skills and staying up-to-date with the latest industry trends.
+---
 I am eager to collaborate on exciting projects, contribute to open-source initiatives, and learn from experienced professionals in the field. My goal is to leverage my technical expertise to create innovative solutions that make a positive impact. As an aspiring full stack developer, I am committed to mastering both front-end and back-end technologies to deliver seamless and user-friendly applications.
 ---
 
@@ -56,7 +57,7 @@ I am eager to collaborate on exciting projects, contribute to open-source initia
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=garv-mittal&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=garv-mittal&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garv-mittal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
