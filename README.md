@@ -23,7 +23,7 @@
 <br>
 -📖: Exploring ML Algorithms whenever I have free time.
 
-- :zap: In my free time, I solve problems on HackerRank, Leetcode and read articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garv-mittal-5243951bb)
 
