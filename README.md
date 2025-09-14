@@ -62,5 +62,24 @@ I am eager to collaborate on exciting projects, contribute to open-source initia
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garv-mittal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## 📊 GitHub Analytics & Achievements Showcase
+
+<div align="left">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=garv-mittal&label=Profile%20views&color=0e75b6&style=flat" alt="ishika1323" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garv-mittal&theme=monokai&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="ishika1323" /></a> </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garv-mittal&show_icons=true&locale=en&layout=compact&theme=monokai" alt="ishika1323" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=garv-mittal&show_icons=true&locale=en&theme=monokai&hide_border=true&count_private=true" alt="ishika1323" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garv-mittal&theme=monokai&hide_border=true" alt="ishika1323" />
+
+### 🔥 Contribution Heatmap
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=garv-mittal&theme=monokai&bg_color=1a1b27&color=be95ff&line=7f39fb&point=00daf7&area=true&hide_border=true" />
+
+</div>
+
 
 -->
