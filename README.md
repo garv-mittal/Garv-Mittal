@@ -65,9 +65,8 @@ I am eager to collaborate on exciting projects, contribute to open-source initia
 ## 📊 GitHub Analytics & Achievements Showcase
 
 <div align="left">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garv-mittal&theme=monokai&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="ishika1323" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishika1323&label=Profile%20views&color=0e75b6&style=flat" alt="ishika1323" /> </p>
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garv-mittal&show_icons=true&locale=en&layout=compact&theme=monokai" alt="ishika1323" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=garv-mittal&show_icons=true&locale=en&theme=monokai&hide_border=true&count_private=true" alt="ishika1323" />
