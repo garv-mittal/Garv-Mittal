@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" width="200" height="150"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjduendtYjJyNjhseDl1NDM5dDBtb3I4czRoaWJleXh4eHlnZmc4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" height="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/garv-mittal-5243951bb">
@@ -65,13 +65,13 @@ I am eager to collaborate on exciting projects, contribute to open-source initia
 ## 📊 GitHub Analytics & Achievements Showcase
 
 <div align="left">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishika1323&label=Profile%20views&color=0e75b6&style=flat" alt="ishika1323" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishika1323&label=Profile%20views&color=0e75b6&style=flat" alt="garv-mittal" /> </p>
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garv-mittal&show_icons=true&locale=en&layout=compact&theme=monokai" alt="ishika1323" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garv-mittal&show_icons=true&locale=en&layout=compact&theme=monokai" alt="garv-mittal" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=garv-mittal&show_icons=true&locale=en&theme=monokai&hide_border=true&count_private=true" alt="ishika1323" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=garv-mittal&show_icons=true&locale=en&theme=monokai&hide_border=true&count_private=true" alt="garv-mittal" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garv-mittal&theme=monokai&hide_border=true" alt="ishika1323" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garv-mittal&theme=monokai&hide_border=true" alt="garv-mittal" />
 
 ### 🔥 Contribution Heatmap
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=garv-mittal&theme=monokai&bg_color=1a1b27&color=be95ff&line=7f39fb&point=00daf7&area=true&hide_border=true" />
